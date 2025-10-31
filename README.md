@@ -9,10 +9,12 @@ This Deliverable01 models the performance of a cloud computing resource allocati
 
 # Deliverable 01:
 This document contains the following sections:
-High-Level Problem Definition
-Dataset Description
+•	High-Level Problem Definition
+•	Dataset Description
+•	Performance objectives
 
-# Dataset
+
+# Dataset:
 The dataset captures variations in task size, arrival rate, and processing time to analyze system performance under different load conditions.
 
 
